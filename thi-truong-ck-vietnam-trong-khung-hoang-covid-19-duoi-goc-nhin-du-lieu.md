@@ -1,10 +1,7 @@
----
-title: TTCK Việt Nam trong khủng hoảng COVID-19
-description: 9/6/2020 by AIAI Cafe
----
-
 Thị trường chứng khoán Việt Nam trong khủng hoảng COVID-19 dưới góc nhìn dữ liệu
 ================================================================================
+
+> 9/6/2020 by AIAI Cafe
 
 Thị trường chứng khoán Việt Nam vừa trải qua một đợt giảm giá sâu và
 phục hồi nhanh chưa từng có trong lịch sử 20 năm qua. Chúng ta cùng nhìn
