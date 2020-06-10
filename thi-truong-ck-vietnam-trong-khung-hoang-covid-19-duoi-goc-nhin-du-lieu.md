@@ -13,6 +13,7 @@ Lợi nhuận
 
 Yếu tố đầu tiên phải kể đến là mức sinh lợi (return) của cổ phiếu trong
 giai đoạn khủng hoảng vừa qua.
+
 ![](thi-truong-ck-vietnam-trong-khung-hoang-covid-19-duoi-goc-nhin-du-lieu_files/figure-markdown_strict/unnamed-chunk-2-1.png)
 
 Chỉ số VN30 cùng với các hợp đồng tương lai phái sinh từ nó cho thấy một
@@ -28,6 +29,7 @@ giai đoạn vừa qua.
 Để có cái nhìn rõ hơn, chúng ta cùng so sánh dữ liệu thị trường trong
 giai đoạn trước và sau khủng hoảng. Chúng ta chọn ngày 6/3/2020 (ngày Hà
 Nội công bố ca bệnh đầu tiên) làm mốc trước và sau khủng hoảng.
+
 ![](thi-truong-ck-vietnam-trong-khung-hoang-covid-19-duoi-goc-nhin-du-lieu_files/figure-markdown_strict/unnamed-chunk-3-1.png)
 
 Mọi thứ có vẻ vẫn diễn ra bình thường, thị trường vẫn có những biến động
@@ -57,6 +59,7 @@ Một số mã trong VN30
 
 Cùng nhìn xa hơn về quá khứ với một số mã chứng khoán (được lựa chọn
 ngẫu nhiên) trong rổ VN30.
+
 ![](thi-truong-ck-vietnam-trong-khung-hoang-covid-19-duoi-goc-nhin-du-lieu_files/figure-markdown_strict/unnamed-chunk-6-1.png)
 
 Chúng ta thấy giai đoạn đi ngang của thị trường được bắt đầu từ giữa năm
@@ -72,6 +75,7 @@ performance của các mã rõ ràng hơn.
 ### So sánh hai giai đoạn của một số mã trong VN30
 
 Chúng ta vẫn lấy ngày 6/3 làm mốc so sánh.
+
 ![](thi-truong-ck-vietnam-trong-khung-hoang-covid-19-duoi-goc-nhin-du-lieu_files/figure-markdown_strict/unnamed-chunk-8-1.png)
 
 Trong giai đoạn trước khủng hoảng, các mã được chọn có performance tương
@@ -96,6 +100,7 @@ thay đổi dương trong khủng hoảng.
 
 Toàn diện hơn nữa, chúng ta cùng xem xét đến hàm phân phối của mức sinh
 lợi hàng ngày đối với các mã.
+
 ![](thi-truong-ck-vietnam-trong-khung-hoang-covid-19-duoi-goc-nhin-du-lieu_files/figure-markdown_strict/unnamed-chunk-12-1.png)
 
 Điều rõ ràng nhất được thấy ở đây là hàm phân phối hầu như thay đổi hoàn
