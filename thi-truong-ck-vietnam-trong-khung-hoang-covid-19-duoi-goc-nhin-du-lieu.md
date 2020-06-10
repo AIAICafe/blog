@@ -1,3 +1,8 @@
+---
+title: TTCK Việt Nam trong khủng hoảng COVID-19
+description: 9/6/2020 by AIAI Cafe
+---
+
 Thị trường chứng khoán Việt Nam trong khủng hoảng COVID-19 dưới góc nhìn dữ liệu
 ================================================================================
 
