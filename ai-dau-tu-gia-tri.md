@@ -49,7 +49,7 @@ Dựa trên mô hình này, chúng ta sẽ loại bỏ doanh nghiệp có điể
 
 ## Vấn đề 5: giải ngân vốn và quản lý đầu tư
 
-Với cách làm trên, chúng ta sẽ có được danh sách cổ phiếu giá trị hàng năm. Từ danh sách này, chúng ta thực hiện đầu tư phân bổ vốn vào các cổ phiểu dựa trên tính thanh khoản, mức độ rủi ro dự báo của từng cổ phiếu.
+Với cách làm trên, chúng ta sẽ có được danh sách cổ phiếu giá trị hàng năm. Từ danh sách này, chúng ta thực hiện đầu tư phân bổ vốn vào các cổ phiểu dựa trên tính thanh khoản, mức độ rủi ro dự báo của từng cổ phiếu. Danh mục sẽ được cơ cấu hàng năm.
 
 Kết quả kiểm nghiệm đầu tư theo phương pháp giá trị, với dữ liệu từ 2014 đến nay:
 
