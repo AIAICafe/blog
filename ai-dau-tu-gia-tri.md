@@ -47,7 +47,7 @@ Trong bài báo [Value Investing: The Use of Historical Financial Statement Info
 
 Dựa trên mô hình này, chúng ta sẽ loại bỏ doanh nghiệp có điểm thấp ra khỏi danh sách đầu tư giá trị.
 
-## Vấn đề 5: dải ngân vốn và quản lý đầu tư
+## Vấn đề 5: giải ngân vốn và quản lý đầu tư
 
 Với cách làm trên, chúng ta sẽ có được danh sách cổ phiếu giá trị hàng năm. Từ danh sách này, chúng ta thực hiện đầu tư phân bổ vốn vào các cổ phiểu dựa trên tính thanh khoản, mức độ rủi ro dự báo của từng cổ phiếu.
 
