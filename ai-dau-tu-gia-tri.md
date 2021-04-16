@@ -24,7 +24,7 @@ Có một vấn đề đối với cổ phiếu giá trị, đó là nó bị l�
 
 Trong bài báo [Predicting Financial Distress and the Performance of Distressed Stocks](https://www.researchgate.net/publication/228205085_Predicting_Financial_Distress_and_the_Performance_of_Distressed_Stocks), các tác giả John Campbell, Jens Hilscher và Jan Szilagyi đã đưa ra mô hình xác suất dựa trên 8 yếu tố giá trị của báo cáo tài chính.
 
-Sử dụng mô hình này, chúng ta tiếp tục loại bỏ những doanh nghiệp có xác suất phả sản cao ra khỏi danh sách.
+Sử dụng mô hình này, chúng ta tiếp tục loại bỏ những doanh nghiệp có xác suất phá sản cao ra khỏi danh sách.
 
 ## Vấn đề 3: định giá
 
